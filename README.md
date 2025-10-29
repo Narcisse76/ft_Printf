@@ -13,7 +13,7 @@ Ce projet t’apprend à structurer un code modulaire, efficace et conforme à l
 ft_printf(const char *format, ...)
 → Affiche du texte selon une chaîne de format et renvoie le nombre de caractères imprimés.
 
-## Spécificateurs pris en charge :
+### Spécificateurs pris en charge :
 
 ```%c → caractère```
 
