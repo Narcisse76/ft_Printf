@@ -1,5 +1,7 @@
 # 🖨️ ft_printf - Recréation de printf en C
 
+<img width="200" height="169" alt="image" src="https://github.com/user-attachments/assets/36666552-5a8e-4e2e-9689-89531f30ce88" />
+
 Le projet ft_printf consiste à reproduire le comportement de la fonction standard printf du langage C.
 Il s’agit de concevoir une fonction capable d’afficher du texte formaté, tout en gérant différents types d’arguments, des spécificateurs et la mise en forme.
 Ce projet t’apprend à structurer un code modulaire, efficace et conforme à la norme 42.
