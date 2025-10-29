@@ -50,7 +50,7 @@ L’objectif est d’avoir une implémentation robuste, testée et conforme à l
 
 ---
 
-🧠 Ce qu’on y apprend
+## 🧠 Ce qu’on y apprend
 
 Comprendre comment fonctionne printf de l’intérieur, manipuler des arguments variadiques, et concevoir une fonction universelle capable de traiter différents types de données.
 Ce projet développe la rigueur, la logique algorithmique, et la gestion des conversions et formats — des compétences essentielles pour tous les projets C à venir.
